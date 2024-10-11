@@ -1,16 +1,16 @@
 body{ 
-    background-color: beige;
+    background-color: aquamarine;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 footer {
-    background-color: blanchedalmond
+    background-color: rgb(209, 208, 156);
     color:black;
     position: fixed;
-    bottom: 0;
+    bottom: 0%;
     width: 100%;
     height: 2rem;
 }
-footer p {
+footer p{
     text-align: center;
     font-size: 0.6rem;
     margin-top: 0.5rem;
