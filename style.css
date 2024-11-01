@@ -1,6 +1,16 @@
+:root{
+    --text-color: #466532; 
+    --card-front-color: #
+    --card-back-color:var(--card-front-color)
+}
 body{ 
     background-color: aquamarine;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.cartao_conteudo{
+    background-color: black ;
+    text-align: center;
+    height: 100%;
 }
 footer {
     background-color: rgb(209, 208, 156);
@@ -14,4 +24,11 @@ footer p{
     text-align: center;
     font-size: 0.6rem;
     margin-top: 0.5rem;
+}
+#container {
+    display:flex;
+}
+.cartao{
+    margin: 1rem 1rem;
+    background-color: bisque;
 }
